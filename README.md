@@ -1,6 +1,6 @@
 
 
-```markdown
+```
 # Entity Linking for KBQA: Dense vs. Lexical Retrieval Replication
 
 This repository contains the implementation and experimental evaluation for the technical report: **"Systematic Literature Review: Machine Learning Approaches for Entity Linking in Knowledge Base Question Answering."**
@@ -38,7 +38,7 @@ The study validates the "Lexical Gap" hypothesis, demonstrating that Dense Retri
    sentence-transformers
    scikit-learn
 
-```
+
 
 3. Install dependencies:
 ```bash
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 
-```
+
 
 
 
