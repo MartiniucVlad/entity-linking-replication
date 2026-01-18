@@ -1,6 +1,6 @@
 
 
-```
+
 # Entity Linking for KBQA: Dense vs. Lexical Retrieval Replication
 
 This repository contains the implementation and experimental evaluation for the technical report: **"Systematic Literature Review: Machine Learning Approaches for Entity Linking in Knowledge Base Question Answering."**
