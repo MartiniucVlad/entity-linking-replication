@@ -1,4 +1,4 @@
-Here is the complete, compact content for your `README.md` file.
+
 
 ```markdown
 # Entity Linking for KBQA: Dense vs. Lexical Retrieval Replication
