@@ -50,10 +50,7 @@ pip install -r requirements.txt
 4. Run the experiment:
 ```bash
 python main.py
-
-
-
-
+```
 
 
 The `main.py` script performs the following steps:
